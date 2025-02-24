@@ -1,11 +1,12 @@
 ---
-title: "morganlab2.github.io"
+title: "ESS330 - Lab 2: Minnesota Tree Growth Data"
+author: 
+  - name: "Neva Morgan"
+    email: "neva.morgan@colostate.edu"
+format: html
+editor: visual
 ---
 
-This is a Quarto website.
+# Lab 2: Minnesota Tree Growth Data
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## Manipulating and summarizing data with dplyr
